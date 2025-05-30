@@ -27,4 +27,4 @@ qr = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_L)  # Reduced
 qr.add_data(data_uri)
 qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
-img.save("pong_qr_reduced_error_correction.png")
+img.save("pong_qr.png")
