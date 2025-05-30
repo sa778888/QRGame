@@ -4,6 +4,11 @@
 
 This project demonstrates how to encode a self-contained Pong game (HTML/JavaScript) into a QR code as a data URI, and provides scripts to decode and launch the game instantly from a QR code image.
 
+---
+# Demo
+
+![Demo](https://github.com/sa778888/QRGame/blob/main/demo.gif?raw=true)
+
 
 ---
 
