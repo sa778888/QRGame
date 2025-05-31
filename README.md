@@ -1,4 +1,4 @@
-# QRGame 
+# QR Pong
 ##  A simple pong game embedded in a qr code.
 # QR Pong Game Runner
 
