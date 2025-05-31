@@ -6,9 +6,8 @@ This project demonstrates how to encode a self-contained Pong game (HTML/JavaScr
 
 ---
 # Demo
-[![Watch the demo](https://img.youtube.com/vi/rpU5z-woUWo/maxresdefault.jpg)](https://youtu.be/rpU5z-woUWo)
+![QR Game Demo](https://github.com/sa778888/QRGame/blob/main/demo.gif?raw=true)
 
-▶️ [Watch the demo on YouTube](https://youtu.be/rpU5z-woUWo)
 
 ---
 
